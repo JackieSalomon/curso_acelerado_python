@@ -5,6 +5,10 @@
 
 * ejercicio1.py
 
+<p align="right">
+<img src="EJ2.jpg" width="100">
+</p>
+
 ### Descripción: imprime hola mundo
 
 ```python
