@@ -3,7 +3,7 @@
 <p align="center">
 <img src="logopython.png" width="300">
 </p>
-__Ejercicios realizados por sesión de clases:
+Ejercicios realizados por sesión de clases:
 
 1. [Sesion Uno](/sesion1/README.md) 
 2. [Sesion Dos](/sesion2/README.md) 
