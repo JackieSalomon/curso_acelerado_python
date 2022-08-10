@@ -5,7 +5,7 @@
 
 * ejercicio1.py
 
-<p align="right">
+<p align="rigth">
 <img src="EJ2.jpg" width="100">
 </p>
 
