@@ -1,13 +1,13 @@
 # Sesion 1
-
+<p align="rigth">
+<img src="EJ2.jpg" width="100">
+</p>
 ---
 ## Listado de ejercicios
 
 * ejercicio1.py
 
-<p align="rigth">
-<img src="EJ2.jpg" width="100">
-</p>
+
 
 ### Descripción: imprime hola mundo
 
