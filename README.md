@@ -5,6 +5,6 @@ curso del maestro zea
 </p>
 Ejercicios realizados por sesión de clases:
 
-[Sesion Uno](/sesion1/README.md) 
-[Sesion Dos](/sesion2/README.md) 
-[Sesion Tres](/sesion3/README.md) 
+1. [Sesion Uno](/sesion1/README.md) 
+2. [Sesion Dos](/sesion2/README.md) 
+3. [Sesion Tres](/sesion3/README.md) 
