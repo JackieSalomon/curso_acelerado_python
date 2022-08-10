@@ -1,9 +1,9 @@
 # curso_acelerado_python
-curso del maestro zea
+## curso del maestro zea
 <p align="center">
 <img src="logopython.png" width="300">
 </p>
-__Ejercicios realizados por sesión de clases:__
+__Ejercicios realizados por sesión de clases:
 
 1. [Sesion Uno](/sesion1/README.md) 
 2. [Sesion Dos](/sesion2/README.md) 
